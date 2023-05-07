@@ -1,4 +1,4 @@
-# this script is installed on webtools instance in source region (now it is Virginia)
+# this script is installed on source server.
 # dependencies to be installed: boto3, pysftp, threading (see installPyModules.sh in packer folder)
 # this script cannot handle deleted files
 # these env vars must be set before running this script:
